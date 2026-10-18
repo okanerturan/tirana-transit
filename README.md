@@ -1,7 +1,7 @@
 # Tirana Transit
 
-[![CI](https://github.com/okturan/tirana-transit/actions/workflows/ci.yml/badge.svg)](https://github.com/okturan/tirana-transit/actions/workflows/ci.yml)
-[![Deploy Pages](https://github.com/okturan/tirana-transit/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/okturan/tirana-transit/actions/workflows/deploy-pages.yml)
+[![CI](https://github.com/okanerturan/tirana-transit/actions/workflows/ci.yml/badge.svg)](https://github.com/okanerturan/tirana-transit/actions/workflows/ci.yml)
+[![Deploy Pages](https://github.com/okanerturan/tirana-transit/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/okanerturan/tirana-transit/actions/workflows/deploy-pages.yml)
 
 An interactive map of Tirana's public bus network backed by a reproducible GTFS-to-GeoJSON pipeline. The project converts a municipality feed into browser-ready routes, stops, and timetables, then renders route selection, corridor offsets, stop service, and schedules with React and MapLibre.
 
@@ -19,7 +19,7 @@ An interactive map of Tirana's public bus network backed by a reproducible GTFS-
 
 | | Current state |
 |---|---|
-| Application | GitHub Pages workflow configured for [okturan.github.io/tirana-transit](https://okturan.github.io/tirana-transit/); deployments come from `main` |
+| Application | GitHub Pages workflow configured for [okanerturan.github.io/tirana-transit](https://okanerturan.github.io/tirana-transit/); deployments come from `main` |
 | Data snapshot | Municipality of Tirana feed `2026-08-12`, covering 2026-01-01 through 2026-12-31 |
 | Bundled coverage | 27 routes, 490 stops, and 10,623 scheduled trips |
 | Scope | Static schedule visualization; not live vehicle tracking or a journey planner |
