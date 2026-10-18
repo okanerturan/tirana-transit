@@ -9,7 +9,7 @@ workflow are supported.
 
 ## Reporting a vulnerability
 
-Please use [GitHub's private vulnerability reporting form](https://github.com/okturan/tirana-transit/security/advisories/new)
+Please use [GitHub's private vulnerability reporting form](https://github.com/okanerturan/tirana-transit/security/advisories/new)
 instead of opening a public issue. Include the affected URL or pipeline step,
 the input needed to reproduce the issue, the environment you tested, and the
 security impact.
